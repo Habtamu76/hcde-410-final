@@ -1,1 +1,1 @@
-# hcde-410-final
+There are a lot of negativity about the use of AI however, instead of focusing on the limitations of AI, this project focuses on its good side. There is so much more to AI and this project will explore in ways which AI has changed the world we live in for good and how it would help structure the future. 
